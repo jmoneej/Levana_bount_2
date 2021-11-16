@@ -8,7 +8,7 @@ ex. (URL) https://app.flipsidecrypto.com/velocity/queries/770c4049-a3b7-45b0-997
 
 qID = "770c4049-a3b7-45b0-9977-88df8f197ed9" get it>?
 
-If you want to do it urself...
+DIY
 
 mkdir coolnewname
 
@@ -19,7 +19,7 @@ git clone https://github.com/massnomis/streadmlitflipsideduo.git
 Or gitpod(better)
 
 https://gitpod.io/#github.com/massnomis/streadmlitflipsideduo
-when it finishes loading...
+
 
 pip install streamlit
 
